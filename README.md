@@ -23,3 +23,4 @@ Get Prediction: Click the 'Predict' button to see the model's prediction (Malign
 Technologies Used
 Python
 pandas: For data manipulation.
+<img width="299" height="205" alt="Image" src="https://github.com/user-attachments/assets/566a4f1d-9b39-4438-9039-4d12f18c6de7" />
