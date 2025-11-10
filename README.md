@@ -24,3 +24,4 @@ Technologies Used
 Python
 pandas: For data manipulation.
 <img width="299" height="205" alt="Image" src="https://github.com/user-attachments/assets/566a4f1d-9b39-4438-9039-4d12f18c6de7" />
+<img width="287" height="205" alt="Image" src="https://github.com/user-attachments/assets/c1ce56d4-bc7a-419c-bb8f-ddf0be819b20" />
